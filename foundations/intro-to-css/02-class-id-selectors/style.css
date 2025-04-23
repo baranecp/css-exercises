@@ -2,3 +2,18 @@
     font-family: "Verdana","DejaVu Sans", sans-serif;
     background-color: hsl(350, 94%, 80%);
 }
+
+#div-one {
+    font-size: 36px;
+    color: hsl(240, 100%, 50%);
+}
+
+.p-two {
+    font-size: 24px;
+}
+
+#div-two {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
